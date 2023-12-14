@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+Here are some ideas to get you started:
+I'm currently doing a Master 2 in Computer Science, specializing in video game programming.
+
+I love developing video games!
+I mainly develop on *Unity* and *Unreal* (⚡long live C# and C++!⚡).
+I'm Yanis 'Frooztyes' MIOLLANY. 
+
 <!--
 **Frooztyes/frooztyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
