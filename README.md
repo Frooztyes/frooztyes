@@ -28,7 +28,7 @@ Check out my [itch.io](https://frooztyes.itch.io) for more details!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frooztyes&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=frooztyes&hide=roff,html,css,java,shaderlab,kotlin,hlsl&theme=radical&langs_count=3">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frooztyes&hide=roff,html,css,java,shaderlab,kotlin,hlsl&theme=radical&langs_count=3">
 </p>
 
 <p align="center">
