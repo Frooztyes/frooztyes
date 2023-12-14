@@ -4,8 +4,8 @@
 <h2 align="center">About me !</h2>
 <br>
 
-Currently doing a Master 2 in Computer Science, specializing in video game programming, I love developing video games!
-I mainly develop on *Unity* and *Unreal* (⚡long live C# and C++!⚡).
+📚 Currently doing a Master 2 in Computer Science, specializing in video game programming, I love developing video games!
+💻 I mainly develop on *Unity* and *Unreal* (⚡long live C# and C++!⚡).
 
 Check my favorites video game projects : 
 - 🤖 [Evodoom](https://github.com/Frooztyes/gamagora-evodoom) : action adventure game in a procedurally generated world
@@ -13,6 +13,11 @@ Check my favorites video game projects :
 - ⚔️ [Tiny Tower](https://github.com/Frooztyes/M2_Gamagora/tree/main/IA_JV/TinyTower) : mini game developed on Unity using my own implementation of A* and Dijkstra
 
 Check out my [itch.io](https://frooztyes.itch.io) for more details!
+
+🎸 If you love musics, check out what I've been listening to lately !
+<p align="left">
+   <img src="https://spotify-recently-played-readme.vercel.app/api?user=19etqy0y5lca13b22seatybbr&count=3&unique=true">
+</p>
 
 
 <br>
