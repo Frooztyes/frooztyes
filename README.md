@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 it's Yanis 'Frooztyes' MIOLLANY!</h2>
+<h1 align="center">🌈 Hi there, it's Yanis 'Frooztyes' MIOLLANY! 🌈</h2>
 
 <br>
 <h2 align="center">About me !</h2>
