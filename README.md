@@ -1,4 +1,8 @@
-### Hi there 👋 it's Yanis 'Frooztyes' MIOLLANY!
+<h1 align="center">Hi there 👋 it's Yanis 'Frooztyes' MIOLLANY!</h2>
+
+<br>
+<h2 align="center">About me !</h2>
+<br>
 
 Currently doing a Master 2 in Computer Science, specializing in video game programming, I love developing video games!
 I mainly develop on *Unity* and *Unreal* (⚡long live C# and C++!⚡).
@@ -10,4 +14,28 @@ Check my favorites video game projects :
 
 Check out my [itch.io](https://frooztyes.itch.io) for more details!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frooztyes)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<h2 align="center">
+  My Github Stats
+</h2>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frooztyes&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=frooztyes&hide=roff,html,css,java,shaderlab,kotlin,hlsl&theme=radical&langs_count=3">
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=frooztyes&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<br>
+<h2 align="center">
+  My Trophies
+</h2>
+<br>
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=frooztyes&theme=radical&row=2&column=3&margin-w=25&margin-h=10"/>
+</p> 
