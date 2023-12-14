@@ -14,7 +14,7 @@ Check my favorite video game projects :
 
 Check out my [itch.io](https://frooztyes.itch.io) for more details!
 
-🎸 If you love musics, check out what I've been listening to lately !
+🎸 If you love music, check out what I've been listening to lately!
 <p align="left">
    <img src="https://spotify-recently-played-readme.vercel.app/api?user=19etqy0y5lca13b22seatybbr&count=3&unique=true">
 </p>
